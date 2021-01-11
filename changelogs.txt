@@ -1,13 +1,14 @@
-EX In Development State
-.
-.
-.
-1
-2
-3
-.
-.
-.
-4
-5
-6
+EX.CC [BETA] VERSION RELEASED
+
+TABS:
+Rage
+Legit
+ESP
+Skins
+Misccellanous
+
+VERSION:
+Rage/Semi-Rage/Legit
+HvH/Semi-Rage/Legit
+
+STATUS: OK, UNDETECTABLE
